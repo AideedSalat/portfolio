@@ -96,14 +96,26 @@ main {
 
   .job-1 {
     grid-area: job1;
+
+    ul li {
+      list-style-type: none;
+    }
   }
 
   .job-2 {
     grid-area: job2;
+
+    ul li {
+      list-style-type: none;
+    }
   }
 
   .job-3 {
     grid-area: job3;
+
+    ul li {
+      list-style-type: none;
+    }
   }
 
   .job {
