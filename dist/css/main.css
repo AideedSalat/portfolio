@@ -172,15 +172,21 @@ main {
   .about-info .job-1 {
     grid-area: job1; }
     .about-info .job-1 ul li {
-      list-style-type: none; }
+      list-style-type: none;
+      text-transform: uppercase;
+      font-size: 0.9rem; }
   .about-info .job-2 {
     grid-area: job2; }
     .about-info .job-2 ul li {
-      list-style-type: none; }
+      list-style-type: none;
+      text-transform: uppercase;
+      font-size: 0.9rem; }
   .about-info .job-3 {
     grid-area: job3; }
     .about-info .job-3 ul li {
-      list-style-type: none; }
+      list-style-type: none;
+      text-transform: uppercase;
+      font-size: 0.9rem; }
   .about-info .job {
     background: #515151;
     padding: 0.5rem;
